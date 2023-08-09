@@ -1,12 +1,13 @@
-import ".././globals.css";
+import "./privacy.css";
+import Footer from "../components/Footer";
 const Privacy = () => {
 	return (
 		<div>
 			<header>
-				<h1>Privacy Policy</h1>
+				<h1 className='text-3xl'>Privacy Policy</h1>
 			</header>
 			<main>
-				<section>
+				<section className='section-container'>
 					<h2>Information Collection and Use</h2>
 					<p>
 						Your privacy is important to us. This privacy policy
@@ -31,7 +32,7 @@ const Privacy = () => {
 					</p>
 				</section>
 
-				<section>
+				<section className='section-container'>
 					<h2>Data Sharing</h2>
 					<p>
 						We do not share any personal or user data collected
@@ -39,7 +40,7 @@ const Privacy = () => {
 					</p>
 				</section>
 
-				<section>
+				<section className='section-container'>
 					<h2>Security</h2>
 					<p>
 						We take the security of your data seriously. We use
@@ -49,7 +50,7 @@ const Privacy = () => {
 					</p>
 				</section>
 
-				<section>
+				<section className='section-container'>
 					<h2>Changes to This Privacy Policy</h2>
 					<p>
 						We may update our privacy policy from time to time. Any
@@ -57,7 +58,7 @@ const Privacy = () => {
 					</p>
 				</section>
 
-				<section>
+				<section className='section-container'>
 					<h2>Contact Us</h2>
 					<p>
 						If you have any questions or concerns about our privacy
@@ -65,46 +66,10 @@ const Privacy = () => {
 						<a href='mailto:adityapal1409@gmail.com'>
 							adityapal1409@gmail.com
 						</a>
-						.
 					</p>
-
-					<p>
-						Feel free to reach out to us via the following channels:
-					</p>
-					<ul className='social-icons'>
-						<li>
-							<a
-								href='https://twitter.com/aditya_k87'
-								target='_blank'>
-								<i className='fab fa-twitter'>Twitter</i>
-							</a>
-						</li>
-						<li>
-							<a
-								href='https://www.linkedin.com/in/adityak87'
-								target='_blank'>
-								<i className='fab fa-linkedin'>linkedIn</i>
-							</a>
-						</li>
-						<li>
-							<a
-								href='https://github.com/adityak87'
-								target='_blank'>
-								<i className='fab fa-github'>GitHub</i>
-							</a>
-						</li>
-						<li>
-							<a
-								href='https:/adityapal.netlify.app'
-								target='_blank'>
-								<i className='fas fa-external-link-alt'>
-									Portfolio
-								</i>
-							</a>
-						</li>
-					</ul>
 				</section>
 			</main>
+			<Footer />
 		</div>
 	);
 };
