@@ -1,0 +1,140 @@
+header {
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+}
+
+header h1 {
+	margin: 0;
+	font-family: "Arial", sans-serif;
+}
+
+main {
+	max-width: 800px;
+	margin: 20px auto;
+	padding: 20px;
+	background-color: #fff;
+	border-radius: 10px;
+	/* box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); */
+	font-family: "Roboto", Arial, sans-serif;
+	margin: 0 auto;
+	background: none;
+}
+
+section {
+	margin-bottom: 30px;
+	padding-bottom: 20px;
+}
+
+h2 {
+	font-size: 28px;
+	color: #007bff;
+	margin-bottom: 15px;
+	font-family: "Montserrat", Arial, sans-serif;
+	position: relative;
+	padding-left: 40px;
+}
+
+h2::before {
+	content: "";
+	position: absolute;
+	top: 50%;
+	left: 0;
+	transform: translateY(-50%);
+	width: 30px;
+	height: 30px;
+	background-color: #ffc107;
+	clip-path: polygon(50% 0%, 0% 50%, 50% 100%, 100% 50%);
+}
+
+p {
+	font-size: 16px;
+	margin-bottom: 15px;
+}
+
+ul {
+	padding-left: 20px;
+	list-style-type: disc;
+	margin-bottom: 15px;
+}
+
+a {
+	color: #007bff;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: #0056b3;
+}
+
+/* Previous CSS code remains the same */
+
+.contact {
+	border-top: 2px solid #007bff;
+	padding-top: 20px;
+}
+
+.contact h2 {
+	font-size: 28px;
+	color: #007bff;
+	margin-bottom: 15px;
+	font-family: "Montserrat", Arial, sans-serif;
+}
+
+.contact p {
+	font-size: 16px;
+	margin-bottom: 10px;
+}
+
+.social-icons {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.social-icons li {
+	display: inline-block;
+	margin-right: 10px;
+}
+
+.social-icons a {
+	color: #007bff;
+	font-size: 24px;
+	text-decoration: none;
+	transition: color 0.3s ease;
+}
+
+.social-icons a:hover {
+	color: #0056b3;
+}
+
+h1 {
+	margin: 0;
+}
+
+.about-section {
+	margin-bottom: 20px;
+	padding: 20px;
+	background-color: #fff;
+	border: 1px solid #ddd;
+	border-radius: 5px;
+}
+
+.social-links {
+	list-style: none;
+	padding: 0;
+}
+
+.social-links li {
+	display: inline-block;
+	margin-right: 10px;
+}
+
+.twitter,
+.linkedin,
+.github {
+	color: #3498db;
+	text-decoration: none;
+}
