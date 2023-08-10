@@ -1,5 +1,5 @@
 import "./privacy.css";
-import Footer from "../components/Footer";
+import Footer from "../../components/Footer";
 const Privacy = () => {
 	return (
 		<div>

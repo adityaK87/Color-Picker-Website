@@ -1,5 +1,5 @@
 import "./about.css";
-import Footer from "../components/Footer";
+import Footer from "../../components/Footer";
 const About = () => {
 	return (
 		<>
