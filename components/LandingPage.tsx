@@ -12,7 +12,7 @@ const LandingPage = () => {
 					A Chrome Extension to easily pick and copy colors from web
 					pages.
 				</p>
-				<a href='#demo' className='cta-button'>
+				<a href='https://chrome.google.com/webstore/detail/color-picker/odlceielnakdomibdflildnbfllnjmgk/related?hl=en-GB&authuser=0' className='cta-button'>
 					Try It Now
 				</a>
 			</header>
