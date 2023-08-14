@@ -10,7 +10,7 @@ const Navbar = () => {
 		<nav className='bg-gray-800'>
 			<div className='relative flex h-16 items-center justify-center'>
 				<div className='flex flex-1 sm:items-stretch sm:justify-start ml-2.5'>
-					<div className='flex flex-shrink-0 items-center'>
+					<div className='flex flex-shrink-0 items-center cursor-pointer'>
 						<Image
 							className='h-8 w-auto'
 							src={logo}
@@ -35,6 +35,11 @@ const Navbar = () => {
 								href='/about'
 								className='text-gray-300 hover:bg-gray-700 hover:text-white rounded-md px-3 py-2 text-sm font-medium'>
 								About
+							</Link>
+							<Link
+								href='/feedback'
+								className='text-gray-300 hover:bg-gray-700 hover:text-white rounded-md px-3 py-2 text-sm font-medium'>
+								Feedback
 							</Link>
 							<Link
 								href='/privacy'
