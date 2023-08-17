@@ -29,7 +29,7 @@ const About = () => {
 					<h2>Contact Us</h2>
 					<p>
 						If you have any questions, feedback, or suggestions,
-						feel free to reach out to us on our social media
+						feel free to reach out to me on my social media
 						profiles:
 					</p>
 					<ul className='social-links'>
