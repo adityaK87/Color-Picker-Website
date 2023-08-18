@@ -1,7 +1,7 @@
 "use client";
 import Link from "next/link";
 import Image from "next/image";
-import logo from "./logo.ico";
+import logo from "../assets/logo.ico";
 import { useRouter } from "next/navigation";
 
 const Navbar = () => {

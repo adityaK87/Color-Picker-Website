@@ -1,6 +1,6 @@
 "use client";
 import Image from "next/image";
-import Logo from "./extension.png";
+import Logo from "../assets/extension.png";
 import "./landing.css";
 
 const LandingPage = () => {
@@ -13,7 +13,8 @@ const LandingPage = () => {
 					pages.
 				</p>
 				<a
-					href='https://chrome.google.com/webstore/detail/color-picker/odlceielnakdomibdflildnbfllnjmgk/related?hl=en-GB&authuser=0'
+					href='https://chrome.google.com/webstore/detail/color-picker/odlceielnakdomibdflildnbfllnjmgk/overview'
+					target='_blank'
 					className='cta-button rounded-sm'>
 					Add To Chrome
 				</a>
