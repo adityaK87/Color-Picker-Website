@@ -1,6 +1,6 @@
 # [Color Picker](https://chrome.google.com/webstore/detail/color-picker/odlceielnakdomibdflildnbfllnjmgk/overview?hl=en-GB&authuser=0)
 
-![Color Picker Extension](./assets/color-picker-Screenshot.png)
+![Color Picker Extension](./assets/live-Screenshot.png)
 
 ## 📌Overview
 
@@ -22,7 +22,7 @@ The Color Picker Chrome Extension is a powerful tool that allows you to capture 
 
 1. Click the Color Picker Extension icon in your toolbar to activate the color picker.
 2. Hover over any color on your screen and click to capture its hex value.
-3. The hex value is automatically copied to your clipboard for easy use.
+3. The hex value can be copied to our clipboard by using copy button.
 
 ## 🙏Support
 
