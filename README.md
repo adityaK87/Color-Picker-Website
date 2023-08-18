@@ -1,34 +1,37 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# [Color Picker](https://chrome.google.com/webstore/detail/color-picker/odlceielnakdomibdflildnbfllnjmgk/overview?hl=en-GB&authuser=0)
 
-## Getting Started
+![Color Picker Extension](./assets/color-picker-Screenshot.png)
 
-First, run the development server:
+## 📌Overview
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+The Color Picker Chrome Extension is a powerful tool that allows you to capture colors from your screen and copy their hex values with a single click. Whether you're a designer, developer, or simply someone who loves colors, this extension streamlines your workflow and enhances your creativity.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🙌Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+-   **Capture Colors:** Easily capture colors from your active tab.
+-   **Copy Hex Values:** Copy the hex value of the captured color to your clipboard.
+-   **Simplified Workflow:** A user-friendly experience that accelerates your color exploration.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## 🛠️Installation
 
-## Learn More
+1. Get the Color Picker Extension from the [Chrome Web Store](https://chrome.google.com/webstore/detail/color-picker/odlceielnakdomibdflildnbfllnjmgk/overview?hl=en-GB&authuser=0).
+2. Click "Add to Chrome" to install the extension.
+3. Access the extension from your browser's toolbar.
 
-To learn more about Next.js, take a look at the following resources:
+## ⚡Usage
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Click the Color Picker Extension icon in your toolbar to activate the color picker.
+2. Hover over any color on your screen and click to capture its hex value.
+3. The hex value is automatically copied to your clipboard for easy use.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## 🙏Support
 
-## Deploy on Vercel
+If you encounter any issues or have suggestions for improvements, please feel free to [contact us](mailto:adityapal1409@gmail.com).
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## ⭐Give Us a Thumbs Up!
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+If you find the Color Picker Extension useful, please consider giving it a 5-star ⭐⭐⭐⭐⭐ rating on the Chrome Web Store. Your support motivates us to keep improving and providing valuable tools for the community.
+
+[Rate the Extension](https://chrome.google.com/webstore/detail/color-picker/odlceielnakdomibdflildnbfllnjmgk/reviews?hl=en-GB)
+
+Thank you for your support! 🙌🎉
