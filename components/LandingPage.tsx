@@ -13,7 +13,7 @@ const LandingPage = () => {
 					pages.
 				</p>
 				<a
-					href='https://chrome.google.com/webstore/detail/color-picker/odlceielnakdomibdflildnbfllnjmgk/overview'
+					href='https://chromewebstore.google.com/detail/color-picker/odlceielnakdomibdflildnbfllnjmgk'
 					target='_blank'
 					className='cta-button rounded-sm'>
 					Add To Chrome
